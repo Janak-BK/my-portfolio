@@ -13,17 +13,17 @@ const Portfolio = () => {
     {
       id: 3,
       src: Cloud,
-      link: 'https://weather-app-topaz-three-38.vercel.app',
+      link: 'https://weather-app-one-iota-38.vercel.app/',
     },
     {
       id: 4,
       src: Food,
-      link:'https://food-website-blush.vercel.app',
+      link:'https://food-website-wine.vercel.app/',
     },
     {
       id: 2,
       src: Car,
-      link:'https://first-project-ebon-gamma.vercel.app/',
+      link:'https://first-project-one-eosin.vercel.app/',
     },
     {
       id: 1,
